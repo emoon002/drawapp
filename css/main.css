@@ -16,11 +16,11 @@ body {
 }
 
 h1 {
-	font-family: Helvetica, arial, serif;
-	font-size: 3em;
+	font-family: 'Gochi Hand', cursive;
+	font-size: 3.2em;
 	font-style: italic;
 	text-align: center;
-	padding-top: 12%;
+	padding-top: 13%;
 	color: #000;
 	z-index: 0;
 }
