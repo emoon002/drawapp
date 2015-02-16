@@ -3,7 +3,7 @@ GENERAL
 ******************/
 
 body {
-	background: #384047;
+	background: url('../images/canvas.jpg');
 	font-family: sans-serif;
 }
 
@@ -45,7 +45,7 @@ canvas {
 #footer {
 	font-size: .8em;
 	text-align: center;
-	color: #aaa;
+	color: #FFF;
 	margin-top: 10%;
 }
 
